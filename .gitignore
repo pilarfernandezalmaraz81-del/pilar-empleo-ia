@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+src/assets/images/avatar_pilar_empleo_ia_1791288587100.jpg
+src/assets/images/foto_perfil_pilar_1791355873289.jpg
+firebase-applet-config.json
